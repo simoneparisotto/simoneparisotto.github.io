@@ -1,3 +1,6 @@
 # Simone Parisotto
 ## Personal GitHub Page
-## Personal Website: www.simoneparisotto.com
+
+Hello, I am Simone Parisotto and this is my Github page
+
+### Personal Website: www.simoneparisotto.com
